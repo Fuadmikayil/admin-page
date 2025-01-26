@@ -1,9 +1,9 @@
 import React from 'react'
 
-const pagnpx create-next-app@latest
+const AdminPage = () => {
   return (
-    <div>pagnpx create-next-app@latest
+    <div>AdminPage</div>
   )
 }
 
-export default pagnpx create-next-app@latest
+export default AdminPage
